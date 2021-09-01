@@ -1,9 +1,16 @@
+## What is this
 Simple project using the suggested third semester architecture
 
 Compare with the project we did day-1 (MVC)
 
-Create an index.html file "somewhere" on you computer and paste in the code below to act as our frontend
+## How to
 
+- Create a local mySQL DB called *day2_demo*
+- Add your own credentials to `application.properties`
+- Create an index.html file "somewhere" on you computer and paste in the code below to act as your frontend
+- Start the server, and click on the `index.html` file to open it in your default browser
+
+### Client code for this simple demo
 ```
 <!DOCTYPE html>
 <html lang="en">
